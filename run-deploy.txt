@@ -1,0 +1,13 @@
+Install and run Jenkins: from the jenkins website (LTS or weekly releases)
+.war file
+
+-use docker:
+
+the folder path unpacked is /Users/wesdemos/course/install
+
+has a Docker compose file (instead of creating a Docker container)
+compose.yaml
+
+$ docker compose up
+
+then go to localhost:8080 on your browser
