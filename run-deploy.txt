@@ -3,7 +3,7 @@ Install and run Jenkins: from the jenkins website (LTS or weekly releases)
 
 -use docker:
 
-the folder path unpacked is /Users/wesdemos/course/install
+the folder path unpacked is /Users/Cdemos/course/install
 
 has a Docker compose file (instead of creating a Docker container)
 compose.yaml
