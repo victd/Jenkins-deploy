@@ -10,4 +10,4 @@ compose.yaml
 
 $ docker compose up
 
-then go to localhost:8080 on your browser
+then go to localhost:8080 on your browser port
