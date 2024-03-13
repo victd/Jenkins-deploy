@@ -1,3 +1,6 @@
+Release and software build
+Code Branch management
+
 Install and run Jenkins: from the jenkins website (LTS or weekly releases)
 .war file
 
