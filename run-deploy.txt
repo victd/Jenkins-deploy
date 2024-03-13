@@ -1,5 +1,6 @@
 Release and software build
-Code Branch management
+Code Branch management, merge management
+Software refactor testing
 
 Install and run Jenkins: from the jenkins website (LTS or weekly releases)
 .war file
