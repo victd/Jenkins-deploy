@@ -1,7 +1,7 @@
 Release and software build
 Code Branch management, merge management
 Software refactor testing, UI / UX
-Selenium sync
+Selenium sync, knny
 
 Install and run Jenkins: from the jenkins website (LTS or weekly releases)
 .war file
