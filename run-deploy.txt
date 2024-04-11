@@ -1,7 +1,7 @@
 Release and software build
 Code Branch management, merge management
 Software refactor testing, UI / UX
-Selenium sync, knny estrdy, Orlean, Montmorency, Java JVM 11
+Selenium sync, knny estrdy, Orlean, Montmorency, ULaval, Java JVM 11
 
 Install and run Jenkins: from the jenkins website (LTS or weekly releases)
 .war file
